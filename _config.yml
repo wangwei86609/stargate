@@ -75,6 +75,16 @@ show_count: true
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
+menu:
+  home: home
+  about: about
+  tags: tags
+  categories: categories
+  archives: archives
+  games: games
+  #schedule: /schedule/ || calendar
+  #sitemap: /sitemap.xml || sitemap
+  #commonweal: /404/ || heartbeat
 
 ## Friends
 friends: [
@@ -99,6 +109,7 @@ public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
+games_dir: games
 #photography_dir: photography
 #code_dir: downloads/code
 i18n_dir: :lang
