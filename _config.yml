@@ -174,7 +174,7 @@ deploy:
   type: git
   repo: https://github.com/wangwei86609/wangwei86609.github.io.git
   branch: master
-  token: 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
+##  token: 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
 
 ## share
 share: true
